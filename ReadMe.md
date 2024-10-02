@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔ Software Engineering Student<br>✔ Web developer<br>✔ Superior Technician in Information Technology<br>✔ I'm constantly learning something new
+✔ Software Engineering<br>✔ Full Stack Web Developer<br>✔ I'm constantly learning something new
 
 
 ## 🌐 Socials:
